@@ -3,7 +3,7 @@
  Soy Carola Pulgar Soto de Santiago de Chile
  Me dedico a desarrollo freelance en java
  
- Estuduie Ingenieria en Computracion e Informatica en la Universidad Andres Bello
+ Estudie Ingenieria en Computracion e Informatica en la Universidad Andres Bello
 
 ● Experiencias previas:
   - Desarrollador Full Stack Freelance (2020 - 2023) : Colaboré con una startup tecnológica para diseñar e implementar una arquitectura de microservicios para su nueva aplicación web. Utilicé Spring Boot para crear servicios escalables y fáciles de mantener, 
