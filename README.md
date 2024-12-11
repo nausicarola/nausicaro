@@ -12,7 +12,7 @@
     Implementé web services SOAP y REST utilizando arquitecturas de microservicios, asegurando la integración y funcionalidad adecuada. Trabajé en la mantención y mejora de aplicaciones web existentes, optimizando su rendimiento y usabilidad. 
     Para la Contraloría General de la República, desarrollé soluciones web con J2EE, JSF, RichFaces, Maven y Oracle, utilizando Weblogic. 
 
-● Por que yo deberias cotactarme: 
+● Por que deberias contactarme: 
   - Desarrollador java con más de 15 años de experiencia en el desarrollo de aplicaciones web y servicios, especializado en tecnologías j2ee y frameworks front-end como angular. experiencia significativa en arquitecturas de microservicios y prácticas devops. 
     Comprometida con la mejora continua y apasionada por trabajar en proyectos de gran escala y en entornos colaborativos y ágiles.
     
